@@ -1,0 +1,5 @@
+root = true # Declares that this is the top-level configuration
+
+[*.md]
+indent_style = space
+indent_size = 2
